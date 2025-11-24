@@ -1,2 +1,2 @@
 # German-Credit-Risk-Analysis
-Credit risk performance dashboard built in Power BI.
+Credit card risk analysis using SQL and Excel. Includes data cleaning, feature engineering, risk scoring logic, and final insights.
